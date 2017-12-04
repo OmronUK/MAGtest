@@ -8,4 +8,6 @@ _EN=Variables
 ++D=BOOL	N=GB_OUT	G=VAR
 ++D=BOOL	N=ipman	G=VAR
 ++D=BOOL	N=opman	G=VAR
+++D=BOOL	N=WayneIn	G=VAR
+++D=BOOL	N=WayneOut	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
